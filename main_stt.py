@@ -15,7 +15,7 @@
 #
 # Package: whisper-stt-server
 # Version: 1.2.3
-# Maintainer: J.A.R.V.I.S. <>, Hugo Espuny <>
+# Maintainer: J.A.R.V.I.S. A.I., Hugo L. Espuny
 # Description: High-performance STT server with GPU acceleration and concurrency.
 #
 # CHANGELOG:

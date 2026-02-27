@@ -90,4 +90,4 @@ By default (if `DEBUG` is unset or not `true`), the server only outputs standard
 ## 🛡 License
 
 GNU GPL v3. 
-Maintainers: Hugo Espuny (<>) & J.A.R.V.I.S. (<>)
+Maintainers: Hugo L. Espuny & J.A.R.V.I.S. A.I.
